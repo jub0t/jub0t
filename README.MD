@@ -1,2 +1,2 @@
-- Languages I **Can** Write.
+- Languages.
   - `Javascript`, `Typescript`, `Golang`, `PHP`, `Rust`, `C++`, `C`, `Lua`, `HTML`, `CSS`, `Python`, `Vlang`
