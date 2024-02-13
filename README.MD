@@ -1,1 +1,1 @@
-![Eye](./x.gif | width=1000)
+<img src='./x.gif' width='100%'>
