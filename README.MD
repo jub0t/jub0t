@@ -1,1 +1,1 @@
-<iframe src="https://giphy.com/embed/X4fPTLm2TCtkNiJnhE" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/water-wave-flow-X4fPTLm2TCtkNiJnhE">via GIPHY</a></p>
+<img src="https://giphy.com/embed/X4fPTLm2TCtkNiJnhE" alt="Water" />
