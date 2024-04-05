@@ -1,1 +1,1 @@
-
+<img src="./regular.gif"/>
