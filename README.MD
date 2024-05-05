@@ -1,2 +1,2 @@
 > [!Important]
-> I don't have all my great repositories pinned, so dont forget to checkout my other repositories too.
+> “Don’t let the noise of others’ opinions drown out your own inner voice." ― Steve Jobs
